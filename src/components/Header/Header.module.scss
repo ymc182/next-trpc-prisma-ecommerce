@@ -1,0 +1,22 @@
+.header_container {
+	background: #121212;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	color: white;
+	display: flex;
+	padding: 0.5rem;
+	align-items: center;
+}
+
+.header_logo {
+	flex: 0;
+}
+.header_menu {
+	flex: 1;
+}
+
+.header_end {
+	flex: 0;
+}
